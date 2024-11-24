@@ -8,7 +8,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'English'
 
-THEME = "C:\home\mchen\~\pelican-themes\hyde"
+THEME = """C:\home\mchen\~\pelican-themes\hyde"""
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -25,7 +25,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
+    ("Github", "#"),
     ("Another social link", "#"),
 )
 
